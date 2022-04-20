@@ -56,4 +56,4 @@ class SimpleReflexVacuumAgent(Environment):
     print (Environment.locationCondition)
     print ("Performance Measurement: " + str(Score))
 theEnvironment = Environment()
-theVacuum = SimpleReflexVacuumAgent(theEnvironment
+theVacuum = SimpleReflexVacuumAgent(theEnvironment)
